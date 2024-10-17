@@ -1,6 +1,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Portfolio
+=======
+# Portfolio
+animation Space themed NextJs
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+# Portfolio
+>>>>>>> 911efc6 (Upload portfolio files)
 NextJs
 =======
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
@@ -44,3 +53,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # Protfolio
 Next
 >>>>>>> origin/main
+<<<<<<< HEAD
+=======
+>>>>>>> c3c7745 (Upload portfolio files)
+>>>>>>> 911efc6 (Upload portfolio files)
