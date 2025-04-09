@@ -37,7 +37,7 @@ const Hire = () => {
           className="flex flex-col  my-10 text-xl  text-white max-w-[750px] w-auto h-auto text-center "
         >
           <span className="text-gray-300">
-            Reach out me today and let's discuss how i can help you acheive your
+            Reach out me today and let&apos;s discuss how i can help you acheive your
             goals.
           </span>
         </motion.p>
